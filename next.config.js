@@ -5,7 +5,6 @@ const nextConfig = {
   experimental: {
     // Required:
     appDir: true,
-    runtime: "experimental-edge",
   },
 };
 
